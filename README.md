@@ -15,8 +15,11 @@ While R Shiny has proven to be invaluable in the field of cancer research, its a
 # References:
 
 King, L., Flaus, A., Coughlan, S., Holian, E., & Golden, A. (2022). GNOSIS: An R Shiny app supporting cancer genomics survival analysis with cBioPortal. HRB Open Research, 5, 8. https://doi.org/10.12688/hrbopenres.13476.2
+
 Miller, D. M., & Shalhout, S. Z. (2022). BodyMapR: An R package and Shiny application designed to generate anatomical visualizations of cancer lesions. JAMIA Open, 5(1), ooac013. https://doi.org/10.1093/jamiaopen/ooac013
+
 Wang, L.-J., Ning, M., Nayak, T., Kasper, M. J., Monga, S. P., Huang, Y., Chen, Y., & Chiu, Y.-C. (2024). shinyDeepDR: A user-friendly R Shiny app for predicting anti-cancer drug response using deep learning. Patterns, 5(2). https://doi.org/10.1016/j.patter.2023.100894
+
 Wang, S. L., Zhang, A. Y., Messer, S., Wiesner, A., & Pearl, D. K. (2021). Student-Developed Shiny Applications for Teaching Statistics. Journal of Statistics and Data Science Education, 29(3), 218–227. https://doi.org/10.1080/26939169.2021.1995545
 
 
